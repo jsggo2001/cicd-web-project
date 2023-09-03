@@ -7,7 +7,7 @@
     <h1>${msg}</h1>
     <h1>Hi, there (updated by jsg)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 3.1</h3>
-    <h3>wow!!!!</h3>
+    <h3>Version: 2.0</h3>
+    <h3>wow!!!! k8s!!!</h3>
 </body>
 </html>
